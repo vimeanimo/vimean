@@ -66,14 +66,14 @@ Create **.env** file from **.env.example** and replace **environment variables**
 | Variable  | Description  | Default                                          |  
 |---|---|--------------------------------------------------|
 | GOOGLE_ANALYTICS_ID  |  Your Google Analytics UA ID (UA-XXXXX-X) |                                                  | 
-|  WEB_URL |  Your blog domain | https://www.tfdevs.com                           | 
-|  FACEBOOK_URL |  Link to your Facebook page or group | https://www.facebook.com/teachingfordevelopment  | 
-|  TELEGRAM_URL | Link to your Telegram channel or group  | https://t.me/tfdTech                             | 
+|  WEB_URL |  Your blog domain | https://www.vimeanimo.com                           | 
+|  FACEBOOK_URL |  Link to your Facebook page or group | https://www.facebook.com/imo.vimean  | 
+|  TELEGRAM_URL | Link to your Telegram channel or group  | https://t.me/vimeanimo                            | 
 |  GITHUB_URL | Link to your Github account  | https://github.com/tfd-ed                        | 
-| YOUTUBE_URL  |  Link to your YouTube channel | https://www.youtube.com/c/TeachingForDevelopment | 
+| YOUTUBE_URL  |  Link to your YouTube channel | https://www.youtube.com/channel/UCuxwla5Jt6xn4SPx9f8X8Uw | 
 |  SITE_TITLE | Your blog title  | TFD Blog                                         | 
-|  EMAIL |  Your blog email address | info@tfdevs.com                                  | 
-| YOUTUBE_CHANNEL_ID | Your YouTube channel id | UCJHZ__wUxS9lgTZHMxpMJcQ                                                 |
+|  EMAIL |  Your blog email address |                                   | 
+| YOUTUBE_CHANNEL_ID | Your YouTube channel id | UCuxwla5Jt6xn4SPx9f8X8Uw                                               |
 
 ```bash    
 $ cd tfd-blog   
